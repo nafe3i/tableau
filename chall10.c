@@ -19,12 +19,12 @@ int main() {
     {
         if (t[i] == a)
         {
-            printf("Nombre %d trouvé à  %d\n", a, i);
+            printf("Nombre %d trouve a  %d\n", a, i);
             break;
         } 
     }
-    printf("le nombre %d n'est pas trouvé \n", a);
-    
+    printf("le nombre %d n'est pas trouve \n", a);
+
       
     return 0;  
 }
